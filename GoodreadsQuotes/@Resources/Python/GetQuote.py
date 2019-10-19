@@ -60,8 +60,8 @@ if __name__ == '__main__':
         
         quotes = get_quotes(user_id, user_name, sort=True)
         if (len(quotes)>0):
-            print("Got a random quote!")
             quote = random.choice(quotes)
+            print("Got a random quote!")
             update_file(quote[1], out_folder+"quote.txt")
             update_file(quote[0], out_folder+"author.txt")
             update_file(quote[2], out_folder+"link.txt")

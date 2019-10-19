@@ -10,11 +10,15 @@
 
 ## Installation
 
-Download skin and run the installer.
+Download skin from the above link and run the installer.
 
 Edit settings in `Settings.inc` file:
 
 - Set `UserId` variable to your Goodreads user id and `UserName` to your Goodreads username. You can obtain these from the link to your Goodreads profile, which is formed as `goodreads.com/user/show/userid-username`.
-- If your python installation is not added to PATH environment variable, set `Python3Executable` variable to point to the location of python executable on your system.
-- Refresh the skin.
-- Enjoy!
+- If your Python installation is not added to `PATH` environment variable, set `Python3Executable` variable to point to the location of python executable on your system.
+
+Install Python package requirements by positioning into `@Resources/Python/` folder and executing `pip install -r requirements.txt`
+
+Refresh the skin.
+
+Enjoy!
