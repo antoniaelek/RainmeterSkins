@@ -1,0 +1,3 @@
+Set your Goodreads user name and id in Settings.inc.
+Make sure you have python 3 installed.
+For more info, follow the link.
