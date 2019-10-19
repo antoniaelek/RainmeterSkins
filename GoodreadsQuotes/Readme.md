@@ -1,6 +1,6 @@
 # Goodreads Quotes Rainmeter Skin
 
-[![download](https://img.shields.io/badge/download-deviantart-blue)](https://www.deviantart.com/aelek/art/-Rainmeter-Goodreads-Quotes-817357253)
+[![download](https://img.shields.io/badge/download-deviantart-blue)](https://www.deviantart.com/aelek/art/Rainmeter-Goodreads-Quotes-817357253)
 
 ## Prerequisites
 
