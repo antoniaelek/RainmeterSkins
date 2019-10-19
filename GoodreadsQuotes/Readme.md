@@ -1,9 +1,12 @@
 # Goodreads Quotes Rainmeter Skin
 
+[![download](https://img.shields.io/badge/download-deviantart-blue)](https://www.deviantart.com/aelek/art/-Rainmeter-Goodreads-Quotes-817357253)
+
 ## Prerequisites
 
-- Rainmeter
-- Python 3
+- Windows OS (7 and newer)
+- Rainmeter (version >= 4.3.1.3321)
+- Python 3 (version >= 3.5)
 
 ## Installation
 
