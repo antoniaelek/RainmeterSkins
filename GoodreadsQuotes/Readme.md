@@ -5,8 +5,8 @@
 ## Prerequisites
 
 - Windows OS (7 and newer)
-- Rainmeter (version >= 4.3.1.3321)
-- Python 3 (version >= 3.5)
+- [Rainmeter](https://www.rainmeter.net/) (version >= 4.3.1.3321)
+- [Python 3](https://www.python.org/downloads/) (version >= 3.5)
 
 ## Installation
 
