@@ -19,6 +19,6 @@ Edit settings in `Settings.inc` file:
 
 Install Python package requirements by positioning into `@Resources/Python/` folder and executing `pip install -r requirements.txt`
 
-Refresh the skin.
+Refresh the skin. Quote should be displayed in a couple of seconds.
 
 Enjoy!
